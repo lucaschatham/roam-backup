@@ -1,6 +1,6 @@
 # [[`roam-backup`]]
 
-Automate backing up JSON copies of your [Roam Research](https://roamresearch.com) data, using GitHub Actions and AWS S3/ Google Cloud Storage.
+Automate the backing up JSON copies of your [Roam Research](https://roamresearch.com) data, using GitHub Actions and AWS S3/ Google Cloud Storage.
 
 Backups will be generated using Puppeteer and saved into the `backups` folder (`config.backupFolder`, can be changed) of an S3 bucket of your choice.
 
